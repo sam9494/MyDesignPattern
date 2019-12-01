@@ -1,0 +1,10 @@
+C:\Users\sam.chong62\Desktop\My Learn\Git\MyDesignPattern\MyDesignPattern\bin\Debug\MyDesignPattern.exe.config
+C:\Users\sam.chong62\Desktop\My Learn\Git\MyDesignPattern\MyDesignPattern\bin\Debug\MyDesignPattern.exe
+C:\Users\sam.chong62\Desktop\My Learn\Git\MyDesignPattern\MyDesignPattern\bin\Debug\MyDesignPattern.pdb
+C:\Users\sam.chong62\Desktop\My Learn\Git\MyDesignPattern\MyDesignPattern\bin\Debug\nunit.framework.dll
+C:\Users\sam.chong62\Desktop\My Learn\Git\MyDesignPattern\MyDesignPattern\bin\Debug\nunit.framework.xml
+C:\Users\sam.chong62\Desktop\My Learn\Git\MyDesignPattern\MyDesignPattern\obj\Debug\MyDesignPattern.csprojAssemblyReference.cache
+C:\Users\sam.chong62\Desktop\My Learn\Git\MyDesignPattern\MyDesignPattern\obj\Debug\MyDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\sam.chong62\Desktop\My Learn\Git\MyDesignPattern\MyDesignPattern\obj\Debug\MyDesignPattern.csproj.CopyComplete
+C:\Users\sam.chong62\Desktop\My Learn\Git\MyDesignPattern\MyDesignPattern\obj\Debug\MyDesignPattern.exe
+C:\Users\sam.chong62\Desktop\My Learn\Git\MyDesignPattern\MyDesignPattern\obj\Debug\MyDesignPattern.pdb
