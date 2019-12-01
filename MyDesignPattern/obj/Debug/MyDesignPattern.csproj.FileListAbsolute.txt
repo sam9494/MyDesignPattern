@@ -8,3 +8,6 @@ C:\Users\sam.chong62\Desktop\My Learn\Git\MyDesignPattern\MyDesignPattern\obj\De
 C:\Users\sam.chong62\Desktop\My Learn\Git\MyDesignPattern\MyDesignPattern\obj\Debug\MyDesignPattern.csproj.CopyComplete
 C:\Users\sam.chong62\Desktop\My Learn\Git\MyDesignPattern\MyDesignPattern\obj\Debug\MyDesignPattern.exe
 C:\Users\sam.chong62\Desktop\My Learn\Git\MyDesignPattern\MyDesignPattern\obj\Debug\MyDesignPattern.pdb
+C:\Users\sam.chong62\Desktop\My Learn\Git\MyDesignPattern\MyDesignPattern\bin\Debug\FluentAssertions.dll
+C:\Users\sam.chong62\Desktop\My Learn\Git\MyDesignPattern\MyDesignPattern\bin\Debug\FluentAssertions.pdb
+C:\Users\sam.chong62\Desktop\My Learn\Git\MyDesignPattern\MyDesignPattern\bin\Debug\FluentAssertions.xml

@@ -1,6 +1,8 @@
-﻿namespace MyDesignPattern.FactoryDesignPattern
+﻿using System;
+
+namespace MyDesignPattern.FactoryDesignPattern
 {
-    public class XPayService
+    public class XPayService : IServiceProviderService 
     {
         public string DoDeposit()
         {

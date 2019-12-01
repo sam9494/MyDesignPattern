@@ -1,10 +1,20 @@
-﻿namespace MyDesignPattern.FactoryDesignPattern
+﻿using System;
+
+namespace MyDesignPattern.FactoryDesignPattern
 {
     public class DepositService
     {
-        public void Deposit(DepositRequest depositRequest)
+        public string Deposit(DepositRequest depositRequest)
         {
-            throw new System.NotImplementedException();
+            switch (depositRequest.ServiceProvider)
+            {
+                case "XPay":
+                    return new XPayService().DoDeposit();
+                case "Vicus":
+                    return new VicusService().DoDeposit();
+                default:
+                    return null;
+            }
         }
     }
 }
